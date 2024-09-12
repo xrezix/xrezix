@@ -4,7 +4,7 @@
   
   #### stay ***Hydrated***!
 </div>
-<img align="right" alt="XD" height="250" width="500" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47l5o0ubba5stwc2b4d1ytgaad3cq5oiijwzyjdhv8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="XD" height="200" width="500" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47l5o0ubba5stwc2b4d1ytgaad3cq5oiijwzyjdhv8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 
