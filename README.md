@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Folks)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=900&size=35&pause=1000&color=3B80CD&background=67FF2D00&width=524&height=68&lines=Hi+Folks%2C+%E0%BC%BC+%E3%81%A4+%E2%97%95_%E2%97%95+%E0%BC%BD%E3%81%A4;%3C+Welcome+To+My+Profile+%2F%3E+" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   
